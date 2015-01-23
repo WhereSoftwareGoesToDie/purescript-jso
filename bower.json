@@ -1,0 +1,27 @@
+{
+  "name": "purescript-jso",
+  "version": "0.0.0",
+  "authors": [
+    "Anchor Engineering <engineering@anchor.com.au>"
+  ],
+  "description": "Purescript bindings for JSO OAuth2.0 Client",
+  "keywords": [
+    "purescript",
+    "oauth2",
+    "jso"
+  ],
+  "license": "BSD3",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jso": "~2.0.0",
+    "purescript-maybe": "~0.2.1",
+    "purescript-foldable-traversable": "~0.2.1"
+  }
+}
